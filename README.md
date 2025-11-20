@@ -5,6 +5,7 @@ In regard to "collection0" tiles:
 This is a first experimental version of DEM tiles at 2 m resolutions with an extent of 256x256 pixels. 
 The tiles cover mainly alpine morphologies (with some exception) in norther Italy, covering the Trentino Province and the Friuli Venezia Giulia Region. 
 The data are derived from public repositories of the provincial and regional instiutions.
+
 For Trentino:
 - Lidar survey 2006 Trentino
 - http://www.territorio.provincia.tn.it/portal/server.pt/community/lidar/847/lidar/23954
