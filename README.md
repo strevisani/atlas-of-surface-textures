@@ -3,7 +3,8 @@ A working space for the design and implementation of an atlas for surface textur
 
 In regard to "collection0" tiles:
 This is a first experimental version of DEM tiles at 2 m resolutions with an extent of 256x256 pixels. 
-The tiles cover mainly alpine morphologies (with some exception) in northern Italy, covering the Trentino Province and the Friuli Venezia Giulia Region. 
+The tiles cover mainly alpine morphologies (with some exception) in northern Italy, covering the Trentino Province and the Friuli Venezia Giulia Region.
+A basic informative table concerning each DEM tile is in table "atlas_textures_csv".
 
 
 **_Residual surfaces of the DEM tiles of "Collection0"_**
