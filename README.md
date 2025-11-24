@@ -1,7 +1,8 @@
 # Atlas-of-surface-textures
 A working space for the design and implementation of an atlas for surface textures. Initially based on solid earth surface data, but extensible to planetary surfaces and others type of surfaces. The starting point is a collection of DEM tiles, but it could be extended to other formats such as lidar point clouds.
 
-In regard to "collection0" tiles:
+**In regard to "collection0" tiles:**
+
 This is a first experimental version of DEM tiles at 2 m resolutions with an extent of 256x256 pixels. 
 The tiles cover mainly alpine morphologies (with some exception) in northern Italy, covering the Trentino Province and the Friuli Venezia Giulia Region.
 A basic informative table concerning each DEM tile is in table "atlas_textures_csv".
