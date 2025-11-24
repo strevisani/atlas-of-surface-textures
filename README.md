@@ -6,8 +6,9 @@ This is a first experimental version of DEM tiles at 2 m resolutions with an ext
 The tiles cover mainly alpine morphologies (with some exception) in norther Italy, covering the Trentino Province and the Friuli Venezia Giulia Region. 
 
 
-![Surface Texture Mosaic Residual Surfaces](mosaicResidualCollection0.png)
 Residual surfaces of the DEM tiles of "Collection0"
+![Surface Texture Mosaic Residual Surfaces](mosaicResidualCollection0.png)
+
 
 The data are derived from public repositories of the provincial and regional institutions reported below.
 For Trentino:
