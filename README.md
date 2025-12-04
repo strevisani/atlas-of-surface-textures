@@ -1,6 +1,11 @@
 # Atlas-of-surface-textures
 A working space for the design and implementation of an atlas for surface textures. Initially based on solid earth surface data, but extensible to planetary surfaces and others type of surfaces. The starting point is a collection of DEM tiles, but it could be extended to other formats such as lidar point clouds.
 
+This is related to the published paper:
+
+Trevisani, S., & Guth, P. L. (2025). Surface Roughness in Geomorphometry: From Basic Metrics Toward a Coherent Framework. Remote Sensing, 17(23), 3864. 
+https://doi.org/10.3390/rs17233864
+
 **In regard to "collection0" tiles:**
 
 This is a first experimental version of DEM tiles at 2 m resolutions with an extent of 256x256 pixels. 
